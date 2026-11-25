@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Nama Buah",
+    "title_en": "Fruit names"
+  },
+  {
+    "id": 2,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Nama Hewan",
+    "title_en": "Animal names"
+  },
+  {
+    "id": 3,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Warna",
+    "title_en": "Colors"
+  },
+  {
+    "id": 4,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Angka",
+    "title_en": "Numbers"
+  },
+  {
+    "id": 5,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Makanan",
+    "title_en": "Food"
+  },
+  {
+    "id": 6,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Minuman",
+    "title_en": "Drinks"
+  },
+  {
+    "id": 7,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Sayuran",
+    "title_en": "Vegetables"
+  },
+  {
+    "id": 8,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Pakaian",
+    "title_en": "Clothing"
+  },
+  {
+    "id": 9,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Family",
+    "title_en": "Family members"
+  },
+  {
+    "id": 10,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Sekolah",
+    "title_en": "School items"
+  },
+  {
+    "id": 11,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Transportasi",
+    "title_en": "Transportation"
+  },
+  {
+    "id": 12,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Perabotan Rumah",
+    "title_en": "Furniture"
+  },
+  {
+    "id": 13,
+    "group": "Basic Vocabulary",
+    "cefr": "A1",
+    "title_id": "Bagian Rumah",
+    "title_en": "Parts of house"
+  },
+  {
+    "id": 14,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Bangunan",
+    "title_en": "Buildings"
+  },
+  {
+    "id": 15,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Alat Masak",
+    "title_en": "Cooking utensils"
+  },
+  {
+    "id": 16,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Masakan",
+    "title_en": "Cooking"
+  },
+  {
+    "id": 17,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Rasa",
+    "title_en": "Taste"
+  },
+  {
+    "id": 18,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Cuaca",
+    "title_en": "Weather"
+  },
+  {
+    "id": 19,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Bagian Tubuh",
+    "title_en": "Body parts"
+  },
+  {
+    "id": 20,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Pekerjaan",
+    "title_en": "Occupations"
+  },
+  {
+    "id": 21,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Aktivitas Harian",
+    "title_en": "Daily activities"
+  },
+  {
+    "id": 22,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Pekerjaan Rumah",
+    "title_en": "Household chores"
+  },
+  {
+    "id": 23,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Pasar",
+    "title_en": "Market"
+  },
+  {
+    "id": 24,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Belanja & Uang",
+    "title_en": "Shopping and money"
+  },
+  {
+    "id": 25,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Kesehatan",
+    "title_en": "Health"
+  },
+  {
+    "id": 26,
+    "group": "Daily Vocabulary",
+    "cefr": "A2",
+    "title_id": "Gerakan Tubuh",
+    "title_en": "Body movement"
+  },
+  {
+    "id": 27,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Kepribadian",
+    "title_en": "Personality"
+  },
+  {
+    "id": 28,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Penampilan Fisik",
+    "title_en": "Physical appearance"
+  },
+  {
+    "id": 29,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Bentuk",
+    "title_en": "Shapes"
+  },
+  {
+    "id": 30,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Less Vocabulary",
+    "title_en": "Word formation"
+  },
+  {
+    "id": 31,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Ly Vocabulary",
+    "title_en": "Adverb formation"
+  },
+  {
+    "id": 32,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Tanda RS & Kantor",
+    "title_en": "Public signs"
+  },
+  {
+    "id": 33,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Taxi",
+    "title_en": "Transportation service"
+  },
+  {
+    "id": 34,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Restoran",
+    "title_en": "Restaurant"
+  },
+  {
+    "id": 35,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Pesawat Terbang",
+    "title_en": "Airplane"
+  },
+  {
+    "id": 36,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Tanda Bandara",
+    "title_en": "Airport signs"
+  },
+  {
+    "id": 37,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Kantor",
+    "title_en": "Office"
+  },
+  {
+    "id": 38,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Media Sosial",
+    "title_en": "Social media"
+  },
+  {
+    "id": 39,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Bahasa Gaul",
+    "title_en": "Slang"
+  },
+  {
+    "id": 40,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Tanda Peringatan",
+    "title_en": "Warning signs"
+  },
+  {
+    "id": 41,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Negara",
+    "title_en": "Country"
+  },
+  {
+    "id": 42,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Pertanian",
+    "title_en": "Agriculture"
+  },
+  {
+    "id": 43,
+    "group": "Advanced Vocabulary",
+    "cefr": "B1",
+    "title_id": "Politik",
+    "title_en": "Politics"
+  },
+  {
+    "id": 44,
+    "group": "Grammar Vocabulary",
+    "cefr": "A1",
+    "title_id": "Kata Benda",
+    "title_en": "Noun"
+  },
+  {
+    "id": 45,
+    "group": "Grammar Vocabulary",
+    "cefr": "A1",
+    "title_id": "Kata Ganti",
+    "title_en": "Pronoun"
+  },
+  {
+    "id": 46,
+    "group": "Grammar Vocabulary",
+    "cefr": "A1",
+    "title_id": "Kata Kerja",
+    "title_en": "Verb"
+  },
+  {
+    "id": 47,
+    "group": "Grammar Vocabulary",
+    "cefr": "A1",
+    "title_id": "Kata Depan",
+    "title_en": "Preposition"
+  },
+  {
+    "id": 48,
+    "group": "Grammar Vocabulary",
+    "cefr": "A1",
+    "title_id": "Kata Hubung",
+    "title_en": "Conjunction"
+  },
+  {
+    "id": 49,
+    "group": "Grammar Vocabulary",
+    "cefr": "A1",
+    "title_id": "Kata Keterangan",
+    "title_en": "Adverb"
+  },
+  {
+    "id": 50,
+    "group": "Grammar Vocabulary",
+    "cefr": "A1",
+    "title_id": "Kata Seru",
+    "title_en": "Interjection"
+  },
+  {
+    "id": 51,
+    "group": "Grammar Vocabulary",
+    "cefr": "A1",
+    "title_id": "Kata Sifat",
+    "title_en": "Adjective"
+  }
+]

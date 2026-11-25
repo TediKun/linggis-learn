@@ -1,0 +1,171 @@
+@import "tailwindcss";
+
+:root {
+  --font-display: "Newsreader Variable", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans Variable", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono Variable", ui-monospace, SFMono-Regular, monospace;
+  --bg-paper: #F9F8F4;
+  --bg-surface: #FFFFFF;
+  --bg-subtle: #F1EFE9;
+  --border-hairline: #E4E2DA;
+  --ink-primary: #18181B;
+  --ink-secondary: #52525B;
+  --ink-muted: #71717A;
+  --accent-primary: #1B4332;
+  --accent-primary-hover: #143326;
+  --accent-primary-tint: #E8F0EC;
+  --accent-warm: #B45309;
+  --accent-warm-tint: #FEF3C7;
+  --state-correct: #15803D;
+  --state-wrong: #B91C1C;
+}
+
+@layer base {
+  html,
+  body {
+    background-color: var(--bg-paper);
+    color: var(--ink-primary);
+    font-family: var(--font-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+
+  h1,
+  h2,
+  .font-display {
+    font-family: var(--font-display), Georgia, serif;
+  }
+
+  .font-mono-ipa {
+    font-family: var(--font-mono), ui-monospace, SFMono-Regular, monospace;
+  }
+}
+
+/* Flashcard 3D flip utilities */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Editorial prose styling for grammar and reading markdown */
+.editorial-prose {
+  color: var(--ink-primary);
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.editorial-prose h1 {
+  font-family: var(--font-display), Georgia, serif;
+  font-size: 1.75rem;
+  line-height: 1.2;
+  font-weight: 600;
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+  color: var(--ink-primary);
+}
+
+.editorial-prose h2 {
+  font-family: var(--font-display), Georgia, serif;
+  font-size: 1.35rem;
+  line-height: 1.25;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--border-hairline);
+  color: var(--ink-primary);
+}
+
+.editorial-prose h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  color: var(--accent-primary);
+}
+
+.editorial-prose p {
+  margin-bottom: 0.9rem;
+  color: var(--ink-primary);
+}
+
+.editorial-prose ul,
+.editorial-prose ol {
+  margin-bottom: 1rem;
+  padding-left: 1.35rem;
+}
+
+.editorial-prose ul {
+  list-style-type: disc;
+}
+
+.editorial-prose ol {
+  list-style-type: decimal;
+}
+
+.editorial-prose li {
+  margin-bottom: 0.4rem;
+}
+
+.editorial-prose blockquote {
+  background-color: var(--bg-subtle);
+  border-left: 3px solid var(--accent-primary);
+  border-radius: 0 8px 8px 0;
+  padding: 0.85rem 1rem;
+  margin: 1rem 0;
+  color: var(--ink-primary);
+}
+
+.editorial-prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  font-size: 0.9375rem;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-hairline);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.editorial-prose th {
+  background-color: var(--bg-subtle);
+  color: var(--ink-primary);
+  font-weight: 600;
+  text-align: left;
+  padding: 0.65rem 0.85rem;
+  border-bottom: 1px solid var(--border-hairline);
+}
+
+.editorial-prose td {
+  padding: 0.6rem 0.85rem;
+  border-bottom: 1px solid var(--border-hairline);
+  color: var(--ink-secondary);
+}
+
+.editorial-prose tr:last-child td {
+  border-bottom: none;
+}
+
+.editorial-prose strong {
+  font-weight: 600;
+  color: var(--ink-primary);
+}
+
+.editorial-prose hr {
+  border: none;
+  border-top: 1px solid var(--border-hairline);
+  margin: 1.5rem 0;
+}
